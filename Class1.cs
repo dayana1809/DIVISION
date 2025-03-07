@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DIVISION
 {
-    public class Class1
+    public class DividirClass
     {
         /// <div>
         /// 
@@ -14,7 +14,7 @@ namespace DIVISION
         /// <param name="a"></param>
         /// <param name="b"></param>
         /// <returns></returns>
-        public static long Division(long a, long b)
+        public static float Division(float a, float b)
         {
             return (a / b);
         }
